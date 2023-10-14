@@ -1,6 +1,11 @@
-Certainly! Below is a simple GitHub README template that you can use for your NestJS-based product management project. Feel free to customize it with your project-specific details, instructions, and additional sections as needed.
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+</p>
 
-```markdown
+
+
+
+
 # NestJS Product Management
 
 This repository contains a NestJS-based product management API for an online store. It provides essential endpoints for managing products, including creating, retrieving, updating, and deleting product information. This repository serves as the backend component of the online store application.
@@ -71,24 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name](mailto:your.email@example.com).
+For any questions or inquiries, please contact [Diwakar Singh](diwkr14@gmail.com).
 
-```
 
-Here's a brief explanation of the sections in the README:
 
-- **Getting Started**: Provides instructions for setting up and running the project on a local machine, including prerequisites and installation steps.
-
-- **Usage**: Describes how to start the NestJS application and specifies the default address where it can be accessed.
-
-- **API Endpoints**: Lists the available API endpoints and their descriptions. It also suggests creating a separate [API documentation](docs/API.md) for more detailed information on how to use these endpoints.
-
-- **Contributing**: Encourages contributions and directs potential contributors to follow the Contribution Guidelines.
-
-- **License**: Specifies the project's license (in this case, MIT) and links to the LICENSE.md file for details.
-
-- **Acknowledgments**: Credits external resources or libraries used in the project.
-
-- **Contact**: Provides contact information for inquiries or questions.
-
-Feel free to customize this template to match the specifics of your project. You can include additional sections such as "Deployment," "Testing," or "Troubleshooting" if needed.
