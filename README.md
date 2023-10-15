@@ -65,10 +65,6 @@ For more details on how to use these endpoints, refer to the [API documentation]
 
 We welcome contributions to improve this project! If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - NestJS: [https://nestjs.com/](https://nestjs.com/)
